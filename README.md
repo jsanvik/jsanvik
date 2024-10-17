@@ -2,6 +2,7 @@
 
 - 🇨🇦 Undergraduate student at the University of Lethbridge in Alberta, Canada
 - 💻 Currently working on my Bachelor of Science in Computer Science
+- 💧 Software Developer at Coagtech
 - 🤖 [FIRST Robotics Competition](https://www.firstinspires.org/robotics/frc) Team 5725 Alumni
 - 🎓 [Chinook High School](https://chs.lethsd.ab.ca) Alumni, Class of 2020
 - 🇫🇷 (Almost) fluent in French
